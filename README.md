@@ -1,4 +1,4 @@
-# fast
+(👉Click.)[https://fast-typing-vue-7dfb69.netlify.app/]
 
 ## Project setup
 ```
